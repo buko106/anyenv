@@ -15,7 +15,7 @@ This is a simple wrapper for [rbenv](https://github.com/sstephenson/rbenv) style
     $ anyenv install plenv
     $ anyenv install pyenv
     $ anyenv install phpenv
-    $ anyenv install ndenv
+    $ anyenv install nodenv
     $ anyenv install denv
     $ anyenv install jenv
     $ anyenv install luaenv
@@ -26,7 +26,7 @@ This is a simple wrapper for [rbenv](https://github.com/sstephenson/rbenv) style
     denv: 2.063 (set by /home/riywo/.anyenv/envs/denv/version)
     jenv: system (set by /home/riywo/.anyenv/envs/jenv/version)
     luaenv: system (set by /home/riywo/.anyenv/envs/luaenv/version)
-    ndenv: v0.10.12 (set by /home/riywo/.anyenv/envs/ndenv/version)
+    <----------TODO---------->
     phpenv: system (set by /home/riywo/.anyenv/envs/phpenv/version)
     plenv: 5.18.0 (set by /home/riywo/.anyenv/envs/plenv/version)
     pyenv: venv27 (set by /home/riywo/.anyenv/envs/pyenv/version)
